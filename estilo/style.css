@@ -93,7 +93,6 @@ header a:hover{
     color: black;
 }
 
-
 main {
     background-color: var(--cor4);
     width: 70vw;
@@ -103,7 +102,7 @@ main {
     border-bottom-right-radius: 20px;
 }
 
-article h2 {
+article h2, article h3 {
     padding: 30px 0px 0px 15px;
     font-family: var(--font-subtitulo);
     font-size: 1.8em;
